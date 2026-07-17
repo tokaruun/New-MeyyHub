@@ -1,4 +1,4 @@
-getgenv().SCRIPT_KEY = "eb7b24ed-773d-4a13-a8ed-c9a0828af9e5"
+getgenv().SCRIPT_KEY = "8bb7bf1b-0f75-4f75-9c2a-7447795c08d5"
 
 -- This file was protected using Luraph Obfuscator v14.7 [https://lura.ph/]
 
